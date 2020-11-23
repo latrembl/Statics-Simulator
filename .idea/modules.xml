@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CS_275_Statics_Simulator.iml" filepath="$PROJECT_DIR$/.idea/modules/CS_275_Statics_Simulator.iml" group="CS_275_Statics_Simulator" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="CS 275 Statics Simulator/app" />
+      <module fileurl="file://$PROJECT_DIR$/libstatics/libstatics.iml" filepath="$PROJECT_DIR$/libstatics/libstatics.iml" group="CS 275 Statics Simulator/libstatics" />
+    </modules>
+  </component>
+</project>
